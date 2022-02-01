@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NXF1LT3R/jest-another-rpg.git"
+  },
+  "author": "Edward Plecha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NXF1LT3R/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/NXF1LT3R/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
